@@ -1,5 +1,1 @@
-#include <stdio.h>
-int main() {
- int number;
-
-    printf("Enter a number: ");
+My name is Sreenivasa Reddy. I am from [your city or village]. I am currently studying [your class or course] at [your school/college name].
